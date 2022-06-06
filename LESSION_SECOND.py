@@ -24,7 +24,7 @@ word_list = input("Напишите несколько слов использу
 for i, word in enumerate(word_list, 1):
     print(f"{i}) {word[:15]}")
 
-    #пятая
+    #пята
 my_list_1 = [7, 5, 3, 3, 2]
 while True:
     number = input("Напишите одно натуральное число: ")
